@@ -23,11 +23,7 @@ An advanced, automated Open-Source Intelligence (OSINT) and Offensive Security p
 - **Data Harvesting:** Automated Email extraction and Google Dorks query generation.
 - **Professional Reporting:** 1-Click generation of highly structured PDF Intelligence Reports.
 
----
 
-## 📸 Screenshots
-
-*(You can add screenshots of your sleek dark-themed dashboard here)*
 
 ---
 
