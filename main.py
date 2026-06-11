@@ -12,9 +12,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-@app.get("/")
-def read_root():
-    return {"message": "OSINT API is running!"}
 
 from analyzer import analyze_target
 from database import init_db, save_scan, get_history, get_scan_by_id
